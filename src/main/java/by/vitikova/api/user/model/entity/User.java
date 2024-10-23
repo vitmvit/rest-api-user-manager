@@ -1,4 +1,4 @@
-package by.vitikova.api.user.model;
+package by.vitikova.api.user.model.entity;
 
 import lombok.*;
 

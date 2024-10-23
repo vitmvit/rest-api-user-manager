@@ -1,7 +1,7 @@
 package by.vitikova.api.user.service.impl;
 
 import by.vitikova.api.user.client.UserClient;
-import by.vitikova.api.user.model.User;
+import by.vitikova.api.user.model.entity.User;
 import by.vitikova.api.user.service.UserService;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;

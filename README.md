@@ -32,3 +32,12 @@ http://localhost:8080/api/users/code
 ```text
 5ebfebe7cb975dfcf9
 ```
+
+Пример ошибки:
+
+```json
+{
+  "errorMessage": "Request method 'POST' is not supported",
+  "errorCode": 500
+}
+```

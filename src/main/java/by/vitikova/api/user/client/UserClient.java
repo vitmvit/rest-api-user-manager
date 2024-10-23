@@ -1,6 +1,6 @@
 package by.vitikova.api.user.client;
 
-import by.vitikova.api.user.model.User;
+import by.vitikova.api.user.model.entity.User;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.ResponseEntity;
